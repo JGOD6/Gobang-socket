@@ -2,7 +2,6 @@
 Use socket communication to build server level and client side to achieve backgammon combat, and can use mapping to achieve cross-LAN combat through third-party software.
 
 Server interface：
-
  <img src="F:\Class\C#窗体应用\五子棋网络对战\Gobang-socket\Server.png" style="zoom:50%;" />
 
 Client side interface：
