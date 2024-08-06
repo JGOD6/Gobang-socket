@@ -1,0 +1,33 @@
+F:\Class\C#窗体应用\五子棋网络对战\五子棋管理系统服务端\五子棋管理系统\五子棋管理系统\bin\Debug\五子棋管理系统.exe.config
+F:\Class\C#窗体应用\五子棋网络对战\五子棋管理系统服务端\五子棋管理系统\五子棋管理系统\bin\Debug\五子棋管理系统.exe
+F:\Class\C#窗体应用\五子棋网络对战\五子棋管理系统服务端\五子棋管理系统\五子棋管理系统\bin\Debug\五子棋管理系统.pdb
+F:\Class\C#窗体应用\五子棋网络对战\五子棋管理系统服务端\五子棋管理系统\五子棋管理系统\obj\x86\Debug\客户端.csproj.AssemblyReference.cache
+F:\Class\C#窗体应用\五子棋网络对战\五子棋管理系统服务端\五子棋管理系统\五子棋管理系统\obj\x86\Debug\客户端.csproj.SuggestedBindingRedirects.cache
+F:\Class\C#窗体应用\五子棋网络对战\五子棋管理系统服务端\五子棋管理系统\五子棋管理系统\obj\x86\Debug\五子棋管理系统.Properties.Resources.resources
+F:\Class\C#窗体应用\五子棋网络对战\五子棋管理系统服务端\五子棋管理系统\五子棋管理系统\obj\x86\Debug\五子棋管理系统.对弈界面.resources
+F:\Class\C#窗体应用\五子棋网络对战\五子棋管理系统服务端\五子棋管理系统\五子棋管理系统\obj\x86\Debug\客户端.csproj.GenerateResource.cache
+F:\Class\C#窗体应用\五子棋网络对战\五子棋管理系统服务端\五子棋管理系统\五子棋管理系统\obj\x86\Debug\客户端.csproj.CoreCompileInputs.cache
+F:\Class\C#窗体应用\五子棋网络对战\五子棋管理系统服务端\五子棋管理系统\五子棋管理系统\obj\x86\Debug\五子棋管理系统.exe
+F:\Class\C#窗体应用\五子棋网络对战\五子棋管理系统服务端\五子棋管理系统\五子棋管理系统\obj\x86\Debug\五子棋管理系统.pdb
+F:\Class\C#窗体应用\五子棋网络对战\五子棋对战\客户端\客户端\bin\Debug\客户端.exe.config
+F:\Class\C#窗体应用\五子棋网络对战\五子棋对战\客户端\客户端\bin\Debug\客户端.exe
+F:\Class\C#窗体应用\五子棋网络对战\五子棋对战\客户端\客户端\bin\Debug\客户端.pdb
+F:\Class\C#窗体应用\五子棋网络对战\五子棋对战\客户端\客户端\obj\x86\Debug\客户端.csproj.AssemblyReference.cache
+F:\Class\C#窗体应用\五子棋网络对战\五子棋对战\客户端\客户端\obj\x86\Debug\客户端.csproj.SuggestedBindingRedirects.cache
+F:\Class\C#窗体应用\五子棋网络对战\五子棋对战\客户端\客户端\obj\x86\Debug\客户端.Properties.Resources.resources
+F:\Class\C#窗体应用\五子棋网络对战\五子棋对战\客户端\客户端\obj\x86\Debug\五子棋管理系统.对弈界面.resources
+F:\Class\C#窗体应用\五子棋网络对战\五子棋对战\客户端\客户端\obj\x86\Debug\客户端.csproj.GenerateResource.cache
+F:\Class\C#窗体应用\五子棋网络对战\五子棋对战\客户端\客户端\obj\x86\Debug\客户端.csproj.CoreCompileInputs.cache
+F:\Class\C#窗体应用\五子棋网络对战\五子棋对战\客户端\客户端\obj\x86\Debug\客户端.exe
+F:\Class\C#窗体应用\五子棋网络对战\五子棋对战\客户端\客户端\obj\x86\Debug\客户端.pdb
+F:\Class\C#窗体应用\五子棋网络对战\五子棋对战 - 副本\客户端\客户端\bin\Debug\客户端.exe.config
+F:\Class\C#窗体应用\五子棋网络对战\五子棋对战 - 副本\客户端\客户端\bin\Debug\客户端.exe
+F:\Class\C#窗体应用\五子棋网络对战\五子棋对战 - 副本\客户端\客户端\bin\Debug\客户端.pdb
+F:\Class\C#窗体应用\五子棋网络对战\五子棋对战 - 副本\客户端\客户端\obj\x86\Debug\客户端.csproj.AssemblyReference.cache
+F:\Class\C#窗体应用\五子棋网络对战\五子棋对战 - 副本\客户端\客户端\obj\x86\Debug\客户端.csproj.SuggestedBindingRedirects.cache
+F:\Class\C#窗体应用\五子棋网络对战\五子棋对战 - 副本\客户端\客户端\obj\x86\Debug\客户端.Properties.Resources.resources
+F:\Class\C#窗体应用\五子棋网络对战\五子棋对战 - 副本\客户端\客户端\obj\x86\Debug\五子棋管理系统.对弈界面.resources
+F:\Class\C#窗体应用\五子棋网络对战\五子棋对战 - 副本\客户端\客户端\obj\x86\Debug\客户端.csproj.GenerateResource.cache
+F:\Class\C#窗体应用\五子棋网络对战\五子棋对战 - 副本\客户端\客户端\obj\x86\Debug\客户端.csproj.CoreCompileInputs.cache
+F:\Class\C#窗体应用\五子棋网络对战\五子棋对战 - 副本\客户端\客户端\obj\x86\Debug\客户端.exe
+F:\Class\C#窗体应用\五子棋网络对战\五子棋对战 - 副本\客户端\客户端\obj\x86\Debug\客户端.pdb
