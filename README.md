@@ -5,7 +5,6 @@ Server interface：
  <img src="F:\Class\C#窗体应用\五子棋网络对战\Gobang-socket\Server.png" style="zoom:50%;" />
 
 Client side interface：
-
  <img src="F:\Class\C#窗体应用\五子棋网络对战\Gobang-socket\Client.png" style="zoom:50%;" />
 
 Use tutorial：
