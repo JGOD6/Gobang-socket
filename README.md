@@ -3,11 +3,11 @@ Use socket communication to build server level and client side to achieve backga
 
 Server interface：
 
- <img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240806173458216.png" alt="image-20240806173458216" style="zoom:50%;" />
+ <img src="F:\Class\C#窗体应用\五子棋网络对战\Gobang-socket\Server.png" style="zoom:50%;" />
 
 Client side interface：
 
- <img src="C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20240806173505242.png" alt="image-20240806173505242" style="zoom:50%;" />
+ <img src="F:\Class\C#窗体应用\五子棋网络对战\Gobang-socket\Client.png" style="zoom:50%;" />
 
 Use tutorial：
 
