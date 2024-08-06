@@ -3,11 +3,11 @@ Use socket communication to build server level and client side to achieve backga
 
 Server interface：
 
- <img src="https://github.com/JGOD6/Gobang-socket.git/Server.png" alt="image-20240806173458216" style="zoom:50%;" />
+ <img src="https://github.com/JGOD6/Gobang-socket.git/raw/Server.png" alt="image-20240806173458216" style="zoom:50%;" />
 
 Client side interface：
 
- <img src="https://github.com/JGOD6/Gobang-socket.git/Client.png" alt="image-20240806173505242" style="zoom:50%;" />
+ <img src="https://github.com/JGOD6/Gobang-socket.git/raw/Client.png" alt="image-20240806173505242" style="zoom:50%;" />
 
 Use tutorial：
 
