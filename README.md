@@ -5,11 +5,9 @@ Server interface：
 
 <img src="https://github.com/JGOD6/Gobang-socket/raw/main/Server.png" style="zoom:50%;" />
 
-# ![contents](https://github.com/JGOD6/Gobang-socket/raw/main/Server.png)
-
 Client side interface：
 
-![contents](https://github.com/JGOD6/Gobang-socket/raw/main/Client.png)
+<img src="https://github.com/JGOD6/Gobang-socket/raw/main/Client.png" style="zoom:50%;" />
 
 Use tutorial：
 
