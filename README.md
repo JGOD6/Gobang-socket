@@ -2,10 +2,10 @@
 Use socket communication to build server level and client side to achieve backgammon combat, and can use mapping to achieve cross-LAN combat through third-party software.
 
 Server interface：
- <img src="https://github.com/JGOD6/Gobang-socket.git/Server.png" style="zoom:50%;" />
+ <img src="https://github.com/JGOD6/Gobang-socket.git/raw/main/Server.png" style="zoom:50%;" />
 
 Client side interface：
- <img src="https://github.com/JGOD6/Gobang-socket.git/Client.png" style="zoom:50%;" />
+ <img src="https://github.com/JGOD6/Gobang-socket.git/raw/main/Client.png" style="zoom:50%;" />
 
 Use tutorial：
 
